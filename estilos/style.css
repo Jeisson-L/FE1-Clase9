@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.mini_header{
+    background-color: #222222;
+    color: #F3F3F3;
+    font-size: 10px;
+}
+
+#logo_front{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+}
+
+#logo_catdog{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+}
+
+.front_color1{
+    color: #3C2313;
+
+}
+
+.catdog_color1{
+    color: white;
+}
+
+.logo_nav{
+    background-color: #F0A83E;
+}
+
+a{
+    text-decoration: none;
+}
+
+div nav ul{
+    list-style-image: url('../img/pawprint 4.svg');
+    
+}
+
+div nav ul li a{
+    color: white;
+    font-size: 13px;
+    line-height: 15px;
+}
+
+#baner{
+    text-align: center;
+    background-image: url('../img/Baner.png');
+    background-size: cover;
+    height: 465px;
+}
+
+#baner img{
+    background-size: cover;
+}
+
+#baner h2{
+    font-size: 30px;
+    line-height: 35px;
+}
+
+.boton{
+    text-align: center;
+}
+
+.boton a{
+    background-color: #F0A83E;
+    color: white;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+h1{
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 47px;
+    color: #3C2313;
+}
+
+section nav ul{
+    list-style-type: none;
+}
+
+section nav ul li{
+    display: inline;
+    font-size: 15px;
+    line-height: 18px;
+}
+
+h4{
+    color: #3C2313;
+}
+
+.item{
+    background-color: #FBFAF6;
+}
+
+.item p{
+    color: #F0A83E;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+}
+
+footer section{
+    background-color: #3C2313;
+}
+
+h5{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+}
+
+footer section div p{
+    color: #8A8787;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 12px;
+}
+
+.front_color2{
+    color: white;
+}
+
+.catdog_color2{
+    color: #F0A83E;
+}
+
+#derechos{
+    background-color: #222222;
+    color: white;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 12px;
+    text-align: center;
+}
